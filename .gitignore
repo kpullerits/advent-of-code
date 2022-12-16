@@ -40,4 +40,4 @@ vignettes/*.pdf
 .Renviron
 
 # Input files to advent of code
-.*input.*.txt
+input*.txt
